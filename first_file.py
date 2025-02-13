@@ -3,4 +3,4 @@ import neshtodrugo
 import sys
 
 print("nqkoi pravi neshto drugo")
-print("hello")
+
